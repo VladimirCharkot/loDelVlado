@@ -1,0 +1,23 @@
+.portada .header{
+  position: relative;
+}
+
+.portada img{
+  position: absolute;
+  transform: rotate(-25deg) scale(.8) translate(-2.6em, -2.8em);
+  opacity: 0.6;
+  height: fit-content;
+}
+
+.portada h1{
+  text-align: center;
+  font-family: 'Fuggles';
+  font-size: 4em;
+  white-space: nowrap;
+}
+
+@media screen and (max-width: 540px) {
+  .portada h1 {
+    font-size: 3em;
+  }
+}

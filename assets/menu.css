@@ -1,0 +1,17 @@
+#menu{
+  display: flex;
+  padding: 1em 20%;
+  justify-content: space-around;
+  background: #ffffffab;
+}
+
+#menu div{
+  cursor: pointer;
+  transition: .3s;
+  font-family: 'Fuggles';
+  font-size: 3em;
+}
+
+#menu div:hover{
+  text-shadow: 0px 0px 1px black;
+}

@@ -1,0 +1,21 @@
+@media screen and (max-width: 860px) {
+  .portada h1 {
+    font-size: 3em;
+  }
+  #menu{
+    padding: 1em 10%;
+  }
+  #menu div{
+    font-size: 2em; 
+  }
+  .portada img{
+    opacity: .2;
+  }
+}
+
+@media screen and (min-width: 1080px) {
+  #contenido {
+    margin: 0 15%;
+    padding: 2em 10%;
+  }
+}

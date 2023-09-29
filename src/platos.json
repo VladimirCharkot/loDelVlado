@@ -1,0 +1,16 @@
+[{
+  "titulo" : "Falafel",
+  "descripcion" : "Faláfel o falafel​ es una croqueta de garbanzos o habas. Suele consumirse en Oriente Medio, y en los últimos años se ha dado a conocer en occidente gracias a los restaurantes especializados en comida oriental y vegetariana. Tradicionalmente se sirve con salsa de yogur o de tahini, en pan de pita o bien como entrada.",
+  "ingredientes" : ["Garbanzos", "Perejil", "Ajo", "Cebolla", "Condimentos"],
+  "imagen" : "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbeat.com.au%2Fwp-content%2Fuploads%2F2019%2F07%2Ffalafel.jpg&f=1&nofb=1&ipt=4b8b8375a2cc130d81e6e230f2d071c9303091fff079c1e265497d84f9eb0a91&ipo=images"
+},{
+  "titulo" : "Piroguis",
+  "descripcion": "Pierogi es el nombre de uno de los platos más típicos de la cocina polaca. Consiste en pasta rellena de diferentes tipos y variedades de vegetal. Pierogi es la denominación en plural de este plato. La palabra proviene de la forma del eslavo arcaico \"pir\".",
+  "ingredientes" : ["Pasta al huevo", "Ricota", "Reggianito", "Papa", "Perejil"],
+  "imagen" : "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.90tv_3I1SXlZihfuFmdfZwHaHa%26pid%3DApi&f=1&ipt=4a52ca540a7bf31e4a07444da5eac578d9b7c21444b81eb81c40c6aa3fe4758a&ipo=images"
+},{
+  "titulo" : "Tarta",
+  "descripcion": "Las tartas combinan normalmente un cierto tipo de subproducto del trigo, un agente edulcorante, un agente astringente, grasa, un líquido, sabores y de una forma de levadura. A menudo, la tarta es el postre de elección para las ocasiones ceremoniales, particularmente las bodas o las fiestas de cumpleaños.",
+  "ingredientes" : ["Masa integral", "Espinaca", "Huevo", "Queso fresco", "Verdeo o puerro"],
+  "imagen" : "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fsazonboricua.com%2Fwp-content%2Fuploads%2F2010%2F05%2FTarta-de-espinaca-y-pollo-2-1024x683.jpg&f=1&nofb=1&ipt=027b146bac86e7e1654bf03ab96d3edf8d025e12a705ceef8bc118d5cff2dd19&ipo=images"
+}]
